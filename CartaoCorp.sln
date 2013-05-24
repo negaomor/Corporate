@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartaoCorp", "CartaoCorp\CartaoCorp.csproj", "{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCartaoCorp", "UnitTestCartaoCorp\UnitTestCartaoCorp.csproj", "{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://acessocard.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CartaoCorp\\CartaoCorp.csproj
+		SccProjectName1 = CartaoCorp
+		SccLocalPath1 = CartaoCorp
+		SccProjectUniqueName2 = UnitTestCartaoCorp\\UnitTestCartaoCorp.csproj
+		SccProjectName2 = UnitTestCartaoCorp
+		SccLocalPath2 = UnitTestCartaoCorp
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug AcessoCorp|Any CPU = Debug AcessoCorp|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Debug AcessoCorp|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Debug AcessoCorp|Any CPU.Build.0 = Debug|Any CPU
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B9E024-1D5E-4CF1-B49D-D00D3FB6B0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Debug AcessoCorp|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Debug AcessoCorp|Any CPU.Build.0 = Debug|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CBCF87-7AA0-47CB-A79D-3885C81E48D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
