@@ -29,5 +29,11 @@ namespace UnitTestCartaoCorp
         {
             //Essa minha versão tem novo método
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            //Essa minha versão tem novo método
+        }
     }
 }
