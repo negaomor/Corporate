@@ -9,9 +9,11 @@ namespace UnitTestCartaoCorp
         [TestMethod]
         public void TestMethod1()
         {
-            //nova linha em branco
+            //Retirado a primeira linha
 
             //Agora temos outra linha em branco
+
+            //Temos 3 linha.
 
             //Teste de branch
         }
