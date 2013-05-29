@@ -12,6 +12,8 @@ namespace UnitTestCartaoCorp
             //nova linha em branco
 
             //Agora temos outra linha em branco
+
+            //Teste de branch
         }
     }
 }
