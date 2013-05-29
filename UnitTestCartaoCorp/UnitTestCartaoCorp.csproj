@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="TesteIdentificacao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CartaoCorp\CartaoCorp.csproj">
