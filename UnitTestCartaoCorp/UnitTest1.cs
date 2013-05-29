@@ -17,5 +17,11 @@ namespace UnitTestCartaoCorp
 
             //Teste de branch
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            //Essa minha versão tem novo método
+        }
     }
 }
