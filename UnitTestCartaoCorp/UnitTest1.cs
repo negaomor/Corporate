@@ -10,6 +10,8 @@ namespace UnitTestCartaoCorp
         public void TestMethod1()
         {
             //nova linha em branco
+
+            //Agora temos outra linha em branco
         }
     }
 }
